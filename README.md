@@ -12,13 +12,13 @@ A simple React Native application for managing your travel bucket list. This app
 ## Screenshots
 (Screenshots would be added here after implementing the app)
 - **Adding a destination**
-  ![Add Destination Screenshot](./path/to/add-destination.png)
+  ![Add Destination Screenshot](https://github.com/vivekgupta2004/TravelBucketList/blob/b6a4c4bf11a577464c396bdb2daf384e0a32e46d/add-destination.png)
   
 - **Marking a destination as visited**
-  ![Mark Visited Screenshot](./path/to/mark-visited.png)
+  ![Mark Visited Screenshot](https://github.com/vivekgupta2004/TravelBucketList/blob/b6a4c4bf11a577464c396bdb2daf384e0a32e46d/mark-visited.png)
 
 - **Deleting a destination**
-  ![Delete Destination Screenshot](./path/to/delete-destination.png)
+  ![Delete Destination Screenshot](https://github.com/vivekgupta2004/TravelBucketList/blob/b6a4c4bf11a577464c396bdb2daf384e0a32e46d/delete-destination.png)
 
 ## Technologies Used
 - **React Native**
