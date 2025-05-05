@@ -19,21 +19,31 @@ A simple React Native application for managing your travel bucket list. This app
 - **Deleting a destination**
   ![Delete Destination Screenshot](https://github.com/vivekgupta2004/TravelBucketList/blob/b6a4c4bf11a577464c396bdb2daf384e0a32e46d/delete-destination.png)
 
-  ### Prerequisites
+## Prerequisites
 
-Make sure you have the following installed:
+ Make sure you have the following installed:
 
 - [Node.js](https://nodejs.org/)
 - [Expo CLI](https://docs.expo.dev/get-started/installation/)
 - A mobile device with the **Expo Go** app or an emulator
 
-### Installation
+## Installation
 
-```bash
-git clone https://github.com/vivekgupta2004/TravelBucketList.git
-cd TravelBucketList
-npm install
-npx expo start
+Follow these steps to set up the project:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/vivekgupta2004/TravelBucketList.git
+
+2. **Navigate into the project folder:**
+   ```bash
+   cd TravelBucketList
+2. **Install the dependencies:**
+   ```bash
+   npm install
+2. **Start the app:**
+   ```bash
+   npx expo start 
 
 ## Technologies Used
 - **React Native**
@@ -74,45 +84,12 @@ The application is built as a single-file React Native app (`App.js`) for simpli
 - **Structured UI components**
 - **Clean, readable code** with comments
 
-## Learning Outcomes
+# Learning Outcomes
 This project demonstrates the following:
 - **React Native fundamentals**
 - **Working with functional components and hooks**
 - **Managing and persisting state**
 - **Creating responsive UI elements**
 - **Implementing CRUD operations** (Create, Read, Update, Delete) in a mobile app
-
-## Folder Structure
-Currently, the application is organized in a simple structure with all logic in a single file (App.js). This makes it easier for beginners to understand the flow of the app.
-
-TravelBucketList/
-├── App.js              # Main React Native application file
-├── assets/             # Folder for images, icons, and other static assets
-├── package.json        # Project metadata and dependencies
-└── README.md           # Project documentation
-
-
-MIT License
-
-Copyright (c) 2025 Vivek Gupta
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights  
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell      
-copies of the Software, and to permit persons to whom the Software is          
-furnished to do so, subject to the following conditions:                       
-
-The above copyright notice and this permission notice shall be included in     
-all copies or substantial portions of the Software.                            
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR     
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,       
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE    
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER         
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING        
-FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS   
-IN THE SOFTWARE.
-
 
 
